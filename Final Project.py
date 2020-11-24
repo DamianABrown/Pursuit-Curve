@@ -4,6 +4,17 @@ Created on Wed Apr 22 15:43:39 2020
 
 @author: damia
 """
+"""
+'''
+This is the final project for Mathematical Programming Course.
+
+Given a function (or curve) create a pursuit curve (using Forward Euler method) that will chase the 
+function. Plot the curve, chasing curve, and its distance from curve and the time 
+needed to catch the curve.
+'''
+"""
+
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
